@@ -1,0 +1,46 @@
+@keyframes fadeIn {
+	from{
+		opacity: 0;
+	}
+to {
+	opacity: 1;
+}
+	}
+
+body {
+  background-color: #8e44ad;
+}
+p {
+  color:red;
+}
+h1 {
+  font-weight: bold;
+  font-family: 'Kumbh Sans', sans-serif; 
+}
+
+#introduction {
+	background-color: : #FFEB3B; 
+}
+
+#WelcometoAbigailsPersonalWebsite {
+
+    font-family: 'Amiko';font-size: 22px;
+}
+
+{
+color:#B71C1C;
+padding:50px;
+margin-left: -25px
+margin-top:-50px;
+margin-bottom: -25px
+font-weight:20px;
+}
+
+#WelcometoAbigailsPersonalWebsite {
+	border: 12px solid;
+	padding: 50px;
+	animation-delay: 0s;
+	animation-name: fadeIn;
+	animation-duration: 5s
+}
+
